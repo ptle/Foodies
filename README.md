@@ -44,7 +44,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a couple of auto layout issues with the resizing of the heights. It was because I forogt a constraint at the top of the label so some of the content would be cut off.
 
 ## License
 
