@@ -226,13 +226,13 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$$" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TBE-9e-HwX">
-                                <rect key="frame" x="340" y="123" width="19" height="18"/>
+                                <rect key="frame" x="340" y="120" width="19" height="18"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="0.7 mi" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dpS-8h-Wkq">
-                                <rect key="frame" x="317.5" y="96" width="41.5" height="21"/>
+                                <rect key="frame" x="317.5" y="96" width="41.5" height="18"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -243,7 +243,7 @@
                             <constraint firstItem="TBE-9e-HwX" firstAttribute="trailing" secondItem="dpS-8h-Wkq" secondAttribute="trailing" id="56N-0e-lYk"/>
                             <constraint firstItem="TBE-9e-HwX" firstAttribute="top" secondItem="dpS-8h-Wkq" secondAttribute="bottom" constant="6" id="5Rl-56-Eoe"/>
                             <constraint firstItem="bKH-Fm-YuT" firstAttribute="top" secondItem="hMr-Nc-WBD" secondAttribute="bottom" id="9Dk-YE-kdE"/>
-                            <constraint firstItem="dpS-8h-Wkq" firstAttribute="centerY" secondItem="bGI-Bb-Kk8" secondAttribute="centerY" id="GcL-fJ-4oP"/>
+                            <constraint firstItem="dpS-8h-Wkq" firstAttribute="top" secondItem="bGI-Bb-Kk8" secondAttribute="top" id="9cr-HF-VQL"/>
                             <constraint firstItem="ro6-W2-eWx" firstAttribute="top" secondItem="bGI-Bb-Kk8" secondAttribute="bottom" constant="2" id="Icz-6z-Ra9"/>
                             <constraint firstItem="NDD-ph-Z7l" firstAttribute="top" secondItem="DkM-dU-1Pl" secondAttribute="bottom" id="NAG-dK-zx1"/>
                             <constraint firstItem="hMr-Nc-WBD" firstAttribute="top" relation="greaterThanOrEqual" secondItem="Iuk-zC-kUf" secondAttribute="bottom" constant="20" id="QYY-35-eED"/>
