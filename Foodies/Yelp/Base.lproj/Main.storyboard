@@ -196,8 +196,8 @@
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="150" id="zLs-ti-wwP"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Thai Restaurant" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bGI-Bb-Kk8">
-                                <rect key="frame" x="16" y="91" width="175" height="30"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="This Thai Restaurant" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bGI-Bb-Kk8">
+                                <rect key="frame" x="16" y="91" width="229" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -256,7 +256,7 @@
                             <constraint firstItem="Wg3-Bh-XlE" firstAttribute="leading" secondItem="ByS-S0-jIA" secondAttribute="leadingMargin" id="cAh-MU-His"/>
                             <constraint firstItem="bGI-Bb-Kk8" firstAttribute="leading" secondItem="ByS-S0-jIA" secondAttribute="leading" constant="16" id="cJ9-1z-KeP"/>
                             <constraint firstAttribute="trailing" secondItem="NDD-ph-Z7l" secondAttribute="trailing" id="eYn-iI-DYH"/>
-                            <constraint firstItem="dpS-8h-Wkq" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="bGI-Bb-Kk8" secondAttribute="trailing" constant="50" id="eue-bd-WOd"/>
+                            <constraint firstItem="dpS-8h-Wkq" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="bGI-Bb-Kk8" secondAttribute="trailing" constant="12" id="eue-bd-WOd"/>
                             <constraint firstAttribute="trailing" secondItem="hMr-Nc-WBD" secondAttribute="trailing" id="fCg-Gt-DUy"/>
                             <constraint firstItem="TBE-9e-HwX" firstAttribute="top" secondItem="dpS-8h-Wkq" secondAttribute="bottom" constant="6" id="hyp-as-5yf"/>
                             <constraint firstItem="NDD-ph-Z7l" firstAttribute="leading" secondItem="ByS-S0-jIA" secondAttribute="leading" id="k6L-FX-3yG"/>
